@@ -1,0 +1,19 @@
+{
+    "name": "sz6/permission",
+    "description": "This package add the permission module to the project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sz6\\Permission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sayed Zaid",
+            "email": "szaid444666@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
